@@ -22,6 +22,7 @@ The rest is unknown, though I will eventually test it on Windows 11.
 
 ## Showcase
 [osu!lazer](https://www.youtube.com/watch?v=k7nuj8gBeBw)
+
 ps. Thumbnail says 2023-2024 because 2023 refers to public release, not personal use.
 
 ## Get Started
