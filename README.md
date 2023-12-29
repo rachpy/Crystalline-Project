@@ -8,7 +8,7 @@ Crystalline Project is an osu! Software specialize in safety, hence absence of f
 ## Features
 - **Enlighten**: Remove Flashlight, Hidden and change Approach Rate (AR)
 - **StreamProof**: OBS Game Capture Bypass
-- **Undetectable**: More info about this in [Discord](https://discord.gg/CWAM8TFbxb).
+- **Undetectable**: More info about this on [Discord](https://discord.gg/CWAM8TFbxb).
 
 ## Supported Clients
 - **osu!**
