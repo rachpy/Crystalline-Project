@@ -17,6 +17,7 @@ Crystalline Project is an osu! Software specialize in safety, hence absence of f
 
 ## Supported OS
 - **Windows 10**
+
 The rest is unknown, though I will eventually test it on Windows 11.
 
 ## Showcase
