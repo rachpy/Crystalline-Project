@@ -13,6 +13,7 @@ Crystalline Project is an osu! Software specialize in safety, hence absence of f
 ## Supported Clients
 - **osu!**
 - **osu!lazer**
+- **McOsu**
 - **Most private server clients**
 
 ## Supported OS
