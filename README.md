@@ -17,8 +17,9 @@ Crystalline Project is an osu! Software specialize in safety, hence absence of f
 
 ## Supported OS
 - **Windows 10**
+- **Windows 11**
 
-The rest is unknown, though I will eventually test it on Windows 11.
+The rest is unknown, though I'm pretty sure it won't work on Linux nor Apple; basically anything that doesn't start their title with **Windows** shouldn't work and vice versa.
 
 ## Showcase
 [osu!lazer](https://www.youtube.com/watch?v=k7nuj8gBeBw)
